@@ -9,7 +9,7 @@ public class TestClass {
 		
 		System.out.println("Added new line");
 		
-		system.out.println("sample 3")
+		System.out.println("sample 3");
 
 	}
 
