@@ -10,6 +10,10 @@ public class TestClass {
 		System.out.println("Added new line");
 		
 		System.out.println("sample 3");
+		
+		System.out.println("sample 4");
+		
+		System.out.println("sample 5");
 
 	}
 
