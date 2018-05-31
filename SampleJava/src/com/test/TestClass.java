@@ -8,6 +8,8 @@ public class TestClass {
 		System.out.println("Sample Git");
 		
 		System.out.println("Added new line");
+		
+		system.out.println("sample 3")
 
 	}
 
